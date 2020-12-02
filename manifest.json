@@ -8,11 +8,11 @@
 		"512": "icon/512.png"
 	},
 	"default_locale": "en",
-	"name": "Universal Bypass",
-	"description": "__MSG_appDesc__",
+	"name": "jadaen",
+	"description": "get past",
 	"homepage_url": "https://universal-bypass.org/",
-	"version": "13.15.1",
-	"author": "Sainan",
+	"version": "version",
+	"author": "jaden",
 	"permissions": [
 		"alarms",
 		"storage",
